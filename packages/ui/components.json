@@ -1,8 +1,8 @@
 {
 	"style": "default",
 	"tailwind": {
-		"config": "tailwind.config.js",
-		"css": "src/app/globals.css",
+		"config": "",
+		"css": "../../",
 		"baseColor": "zinc",
 		"cssVariables": true
 	},
